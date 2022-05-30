@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @giulianoojeda777
 - 👀 I’m interested in ML, Blockchain, Robotics
 - 💞️ I’m looking to collaborate on AI or Blockchain related projects
-- 📫 How to reach me https://www.linkedin.com/in/giulianoojeda/
+- 📫 How to reach me https://www.linkedin.com/in/giulianoojeda/ or https://buidlguidl.com/build/VHbbEOeT06RqTBjpXaHC
 
 <!---
 giulianoojeda777/giulianoojeda777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
