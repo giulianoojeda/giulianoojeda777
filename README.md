@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @giulianoojeda777
 - 👀 I’m interested in ML, Blockchain, Robotics
-- 🌱 I’m currently learning (Smart Contracts Development)
-- 💞️ I’m looking to collaborate on IA projects
+- 💞️ I’m looking to collaborate on AI or Blockchain related projects
 - 📫 How to reach me https://www.linkedin.com/in/giulianoojeda/
 
 <!---
